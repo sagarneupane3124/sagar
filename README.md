@@ -1,2 +1,1 @@
-# sagar
-sagar activare
+new django activate and run from this repository.
